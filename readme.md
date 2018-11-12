@@ -1,3 +1,3 @@
 Ciao!
-Questo e'un laboratprio su Watson Studio
+Questo e'un laboratorio su Watson Studio
 
