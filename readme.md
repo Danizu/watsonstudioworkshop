@@ -1,3 +1,2 @@
-Ciao!
-Questo e'un laboratorio su Watson Studio
+Per i partecipanti il materiale e' stato condiviso in modalita' privata
 
